@@ -11,3 +11,13 @@ The goal is not to showcase complex SQL syntax, but to demonstrate how data can 
 
 The analysis is designed to reflect real-world business questions and decision-making contexts,
 rather than isolated SQL exercises.
+## Key Business Questions
+
+This project aims to answer practical business questions such as:
+
+- How many customer service tickets are created over time?
+- Are there noticeable peaks or patterns in ticket volume?
+- What types of issues appear most frequently?
+- Are there signs of inefficiency in response or resolution timelines?
+
+These questions reflect common concerns in customer support and service operations.
